@@ -1,0 +1,16 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "DB",
+    "owner": "E",
+    "description": "Lorem Ipsum",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "H",
+    "threatTop": 0
+  }
+}
