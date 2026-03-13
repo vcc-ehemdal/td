@@ -19,8 +19,8 @@
         "cells": [
           {
             "position": {
-              "x": 121.99999999999989,
-              "y": 21.00000000000074
+              "x": 130,
+              "y": -10
             },
             "size": {
               "width": 460,
@@ -504,6 +504,11 @@
             "vertices": [],
             "tools": {
               "items": [
+                "boundary",
+                "button-remove",
+                "vertices",
+                "source-arrowhead",
+                "target-arrowhead",
                 "boundary",
                 "button-remove",
                 "vertices",
